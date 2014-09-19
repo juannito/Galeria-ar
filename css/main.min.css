@@ -1,2 +1,2 @@
-
+html{height:100%}body{background-color:#4C4D8C;font-family:sans-serif;color:white}li{list-style:none;float:left}h1{color:white;text-align:center;margin:25px 0;font-family:Lobster}#gallery{max-width:900px;min-width:320px;margin:auto;border:1px solid red;overflow:hidden}#thumbs{width:150px;margin:15px;border-radius:5px;-mz-border-radius:5px;-o-border-radius:5px;-ms-border-radius:5px;-webkit-border-radius:5px;border:15px solid white}#comp{width:600px;border:1px solid red;position:absolute;z-index:3}#overlay{width:100%;height:100%;background-color:rgba(0,0,0,0.6);position:absolute;z-index:1;top:0;left:0;text-align:center}
 /*# sourceMappingURL=main.min.css.map */
